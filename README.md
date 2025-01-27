@@ -1,6 +1,6 @@
 # Hey there! 👋  
 
-Welcome to my GitHub profile! I'm **Théo Gagelin**, a web developer who enjoys building and exploring cool tech projects. <br/>
+Welcome to my GitHub profile! I'm **Théo Gagelin**, a 21y/o developer who enjoys building and exploring cool tech projects. <br/>
 I'm also the founder of **GT Design**, my small business where I create custom websites tailored to clients' needs.  
 
 ---
@@ -55,6 +55,15 @@ I'm also the founder of **GT Design**, my small business where I create custom w
   <a href="mailto:gagelintheo2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+---
+
+
+## 📊 GitHub Activity  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Apouuuuuuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apouuuuuuu&layout=compact&theme=tokyonight&hide_border=true" height="200px"/>
 </p>
 
 ---
