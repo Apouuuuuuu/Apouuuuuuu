@@ -49,7 +49,7 @@ I'm also the founder of **GT Design**, my small business where I create custom w
 
 ## 📫 Contact  
 <p align="left">
-  <a href="https://www.linkedin.com/in/theogagelin">
+  <a href="https://www.linkedin.com/in/th%C3%A9o-gagelin-993b0a210/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:gagelintheo2@gmail.com">
