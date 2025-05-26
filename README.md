@@ -62,7 +62,6 @@ I'm also the founder of **GT Design**, my small business where I create custom w
 
 ## 📊 GitHub Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Apouuuuuuu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apouuuuuuu&layout=compact&theme=tokyonight&hide_border=true" height="200px"/>
 </p>
 
