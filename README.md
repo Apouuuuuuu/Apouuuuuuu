@@ -4,7 +4,17 @@ Welcome to my GitHub profile! I'm **Théo Gagelin**, a 21y/o developer who enjoy
 I'm also the founder of **GT Design**, my small business where I create custom websites tailored to clients' needs.  
 
 ---
+## 📊 GitHub Activity
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Apouuuuuuu&theme=onedark&title=-Followers,-Issues,-PullRequest,-Reviews&no-bg=true&column=-1" alt="Apouuuuuuu trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apouuuuuuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="200px" />
+</p>
+
+---
 ## 🛠️ Tech Stack  
 
 ### **Languages**  
@@ -55,14 +65,6 @@ I'm also the founder of **GT Design**, my small business where I create custom w
   <a href="mailto:gagelintheo2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-
-## 📊 GitHub Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apouuuuuuu&layout=compact&theme=tokyonight&hide_border=true" height="200px"/>
 </p>
 
 ---
