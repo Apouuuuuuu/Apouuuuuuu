@@ -1,7 +1,6 @@
 # Hey there! 👋  
 
 Welcome to my GitHub profile! I'm **Théo Gagelin**, a 21y/o developer who enjoys building and exploring cool tech projects. <br/>
-I'm also the founder of [Pagalis](https://www.pagalis.fr/), my business where I create custom websites tailored to clients' needs.  
 
 ---
 ## 📊 GitHub Activity
