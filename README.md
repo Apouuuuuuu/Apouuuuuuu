@@ -1,6 +1,6 @@
 # Hey there! 👋  
 
-Welcome to my GitHub profile! I'm **Théo Gagelin**, a 21y/o developer who enjoys building and exploring cool tech projects. <br/>
+Welcome to my GitHub profile! I'm **Théo Gagelin**, a 22y/o developer who enjoys building and exploring cool tech projects. <br/>
 
 ---
 ## 📊 GitHub Activity
